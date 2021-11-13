@@ -1,7 +1,7 @@
 # Stock broker classifier
 This script visualizes trades for an individual stock by categorizing trades by broker codes. Aim of the script is to present which broker is bying and selling the stock. The script was created entirely as a hobby.
 
-Defaut classification divides the brokers into the two classes: private brokers and foreing/institutional brokers. The result charts presents the class volumes over the time.
+Default classification divides the brokers into the two classes: private brokers and foreing/institutional brokers. The result charts presents the class volumes over the time.
 
 ![alt text](img/trade-example-chart.png)
 
